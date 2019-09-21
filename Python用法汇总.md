@@ -5,6 +5,10 @@
 %d  整数   %s 字符串
 ```python
 print("I love %s" %Passion)
+I love Passion
+
+print("I own %d Apples" %100)
+I own 100 Apples
 ```
-`I love Passion`
+
 
