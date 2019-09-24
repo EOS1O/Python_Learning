@@ -10,5 +10,23 @@ I love Passion
 print("I own %d Apples" %100)
 I own 100 Apples
 ```
+## split()方法
+split()通过指定分隔符对字符串进行切片，如果参数num 有指定值，则仅分隔 num 个子字符串；若str为空，则切割space
+```
+str.split(str="", num=string.count(str)
+```
+#### Input
+```
+str = "this is string example....wow!!!"
+print (str.split( ))
+print (str.split('i',1))
+print (str.split('w'))
+```
+#### Output
+```
+['this', 'is', 'string', 'example....wow!!!']
+['th', 's is string example....wow!!!']
+['this is string example....', 'o', '!!!']
+```
 
 
