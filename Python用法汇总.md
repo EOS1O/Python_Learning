@@ -31,4 +31,7 @@ print (str.split('w'))
 ## istitle()
 istitle()方法检测字符串中所有的单词拼写首字母是否为大写，且其他字母为小写
 
+## lower() & upper()
+lower()方法将字符串中所有的大写变味小写；upper（）相反
+
 
