@@ -38,7 +38,7 @@ lower()方法将字符串中所有的大写变味小写；upper（）相反
 求取绝对值
 
 ## random（）
-```
+```python
 import random
 
 print( random.randint(1,10) )        # 产生 1 到 10 的一个整数型随机数  
