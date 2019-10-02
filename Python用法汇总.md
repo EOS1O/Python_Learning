@@ -63,3 +63,15 @@ dir([])    #查看列表的属性和方法
 ['__add__', '__class__', '__contains__', '__delattr__', '__delitem__', '__delslice__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__getslice__', '__gt__', '__hash__', '__iadd__', '__imul__', '__init__', '__iter__', '__le__', '__len__', '__lt__', '__mul__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__reversed__', '__rmul__', '__setattr__', '__setitem__', '__setslice__', '__sizeof__', '__str__', '__subclasshook__', 'append', 'count', 'extend', 'index', 'insert', 'pop', 'remove', 'reverse', 'sort']
 ```
 
+## continue（）
+continue 语句用来告诉Python跳过当前循环的剩余语句，然后继续进行下一轮循环
+ps：continue 语句跳出本次循环，而break跳出整个循环
+```python
+n = 0
+while n < 10:
+    n = n + 1
+    if n % 2 == 0:      # 如果n是偶数，执行continue语句
+        continue        # continue语句会直接继续下一轮循环，后续的print()语句不会执行
+    print(n)
+```
+
