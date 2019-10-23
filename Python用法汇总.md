@@ -5,7 +5,7 @@
 
 |   W3school    | 菜鸟 |　莫烦｜
 | ------------- | ------------- |------------- |
-| 　[💻](https://www.w3schools.com/python/default.asp)  | [🎨](https://www.runoob.com/python/python-tutorial.html)  |　［☕️](https://morvanzhou.github.io/)｜
+| 　[💻](https://www.w3schools.com/python/default.asp)  | [🎨](https://www.runoob.com/python/python-tutorial.html)  |[☕️](https://morvanzhou.github.io/)｜
 
 ## print用法
 %d  整数           %s 字符串
