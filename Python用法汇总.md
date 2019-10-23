@@ -3,9 +3,9 @@
 # <p align="center">Python</p>
 ### <p align="center">记录日常所学所惑所得</p>
 
-|   W3school    | 菜鸟 |
-| ------------- | ------------- |
-| 　[💻](https://www.w3schools.com/python/default.asp)  | [🎨](https://www.runoob.com/python/python-tutorial.html)  |
+|   W3school    | 菜鸟 |　莫烦｜
+| ------------- | ------------- |------------- |
+| 　[💻](https://www.w3schools.com/python/default.asp)  | [🎨](https://www.runoob.com/python/python-tutorial.html)  |　［☕️](https://morvanzhou.github.io/)｜
 
 ## print用法
 %d  整数           %s 字符串
