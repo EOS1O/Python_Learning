@@ -79,6 +79,23 @@ while n < 10:
 ```python
 # 法1：使用reverse()方法
 a = [1,2,3,4,5]
-a.reverse()
-print(a)
+a.reverse()             #a列表本身被更改了
+print(a)                #Output:  [5,4,3,2,1]  
+
+# 法2：使用分片
+a = [1,2,3,4,5]         #a列表本身未被改变
+b = a[::-1]             #从后向前找，步长为1
+print(b)                #Output： [5,4,3,2,1]
+``` </br></br>
+
+#### 字典反转
+```python
+a = {a:1, b:2, c:3}
+a.items()                               #Output: dict_items([('a', '1'), ('b', '2'),('c','3')])
+
+for k,v in a.items:                     #Output: a  1
+    print(k,v)                                   b  2
+                                                 c  3
+b = {v:k for k,v in a.items()}          
+print(b)                                #output： [1:a,2:b,3:c]
 ```
