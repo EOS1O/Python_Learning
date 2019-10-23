@@ -3,9 +3,9 @@
 # <p align="center">Python</p>
 ### <p align="center">记录日常所学所惑所得</p>
 
-|W3school|菜鸟|莫烦|V2EX|CheckiO
-|:-:|:-:|:-:|:-:|:-: 
-|[💻](https://www.w3schools.com/python/default.asp)|[🎨](https://www.runoob.com/python/python-tutorial.html)|[☕️](https://morvanzhou.github.io/)|[📝](https://www.v2ex.com/)|[💡](https://py.checkio.org/)
+|W3school|菜鸟|莫烦|V2EX|CheckiO|Machine Learning|Django|Pandas
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-: 
+|[💻](https://www.w3schools.com/python/default.asp)|[🎨](https://www.runoob.com/python/python-tutorial.html)|[☕️](https://morvanzhou.github.io/)|[📝](https://www.v2ex.com/)|[💡](https://py.checkio.org/)|[☁️](https://github.com/hangtwenty/dive-into-machine-learning)|[💾](https://www.djangoproject.com/)|[✏️](https://jvns.ca/blog/2013/12/22/cooking-with-pandas/)
 
 ## print用法
 %d  整数           %s 字符串
