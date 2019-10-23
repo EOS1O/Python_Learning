@@ -98,3 +98,22 @@ for k,v in a.items:                     #Output: a  1
 b = {v:k for k,v in a.items()}          
 print(b)                                #output： [1:a,2:b,3:c]
 ```
+
+## 切片技术
+切片是list索引的一项重要功能
+· 　　list = [0, 1, 2, 3, 4, 5, 6, 7, 8]
+　正向顺序：  0　１　２　３　４　５　６　７　８　９
+　逆向顺序：　－９　－８　－７　－６　－５　－４　－３　－２　－１
+
+· list[start_index:stop_index:step]
++ start_index:开始位置，可为负
++ stop_index:结束位置,此位不取
++ step：步长，默认为 1
+
+```python
+a = [0, 1, 2, 3, 4, 5, 6, 7, 8]
+print(a[::])                            #输出a
+print(a[::-1])                          #逆向输出 [8, 7, 6, 5, 4, 3, 2, 1]
+print(a[::2])                           #隔位取数 [0, 2, 4, 6, 8]
+print(a[-8:6])                          #Output: [1, 2, 3, 4, 5]
+```
