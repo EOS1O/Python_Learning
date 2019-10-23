@@ -118,15 +118,16 @@ print(a[::2])                           #隔位取数 [0, 2, 4, 6, 8]
 print(a[-8:6])                          #Output: [1, 2, 3, 4, 5]
 ```
 ## range()用法
-· range(start, stop, step) </br></br>
+· range(start, stop, step)
 + start: 开始位置，默认为 0 </br></br>
 + stop: 结束位置，输出时不包括 </br></br>
 + step: 间隔，默认为1 </br></br>
 ```python
 range(10)                        #产生 0-9 间所有的整数
 range(1,10,2)                    #输出 [1,3,5,7,9]
+range(10,-10,-1)                 #输出[10,-10)间所有的整数
 
-for i in range(6, -1, -1):      #逆向输出，若为range(10,-10,-1),将输出[10,-10)间所有的整数
+for i in range(6, -1, -1):      #逆向输出
     new.append(i)
 print(new)                      #Output: [6, 5, 4, 3, 2, 1, 0]
 
