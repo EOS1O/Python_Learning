@@ -3,9 +3,9 @@
 # <p align="center">Python</p>
 ### <p align="center">记录日常所学所惑所得</p>
 
-|   W3school    | Second Header |
+|   W3school    | 菜鸟 |
 | ------------- | ------------- |
-| 💻  | Content Cell  |
+|     [💻](https://www.w3schools.com/python/default.asp)  | [🎨](https://www.runoob.com/python/python-tutorial.html)  |
 
 ## print用法
 %d  整数           %s 字符串
