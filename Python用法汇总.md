@@ -1,4 +1,4 @@
-<div align=center><img width="150" height="180" src=https://i.loli.net/2019/10/23/iU9OX5LN1kZMSGm.png></div> </br></br>
+<div align=center><img width="150" height="180" src=https://i.loli.net/2019/10/23/iU9OX5LN1kZMSGm.png></div>
 
 # <p align="center">Python</p>
 
