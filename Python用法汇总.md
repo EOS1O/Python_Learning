@@ -1,3 +1,4 @@
+<div align=center><img width="150" height="150" src=https://i.loli.net/2019/10/23/iU9OX5LN1kZMSGm.png></div>
 ![puck](https://i.loli.net/2019/10/23/iU9OX5LN1kZMSGm.png)
 
 # <p align="center">Python</p>
