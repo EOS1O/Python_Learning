@@ -5,7 +5,7 @@
 
 |   W3school    | Second Header |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| 💻  | Content Cell  |
 
 ## print用法
 %d  整数           %s 字符串
