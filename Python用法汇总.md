@@ -133,4 +133,4 @@ print(new)                      #Output: [6, 5, 4, 3, 2, 1, 0]
 
 ```
 
-![🌉](https://www.google.com/search?sxsrf=ACYBGNQ586epjD--hRBYNIXPIcBw1FBT-w%3A1571810437407&source=hp&ei=heyvXaLGFtzSz7sPvLqdWA&q=%E8%B0%B7%E6%AD%8C%E7%BF%BB%E8%AF%91&oq=gugefanyi&gs_l=psy-ab.1.1.35i39j0i203l9.358.2208..3967...0.0..0.262.1924.0j6j4......0....1..gws-wiz.....10..35i362i39j0i131j0j0i10.2uYNHr-HN4U)
+![🌉](https://eosdota.xyz)
