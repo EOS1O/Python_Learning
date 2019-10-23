@@ -3,9 +3,9 @@
 # <p align="center">Python</p>
 ### <p align="center">记录日常所学所惑所得</p>
 
-|W3school|菜鸟|莫烦|V2EX|CheckiO|Django|Pandas|Github|Machine Learning
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-: 
-|[💻](https://www.w3schools.com/python/default.asp)|[🎨](https://www.runoob.com/python/python-tutorial.html)|[☕️](https://morvanzhou.github.io/)|[📝](https://www.v2ex.com/)|[💡](https://py.checkio.org/)|[💾](https://www.djangoproject.com/)|[✏️](https://jvns.ca/blog/2013/12/22/cooking-with-pandas/)|[🍉](https://github.com/CodementorIO/Python-Learning-Resources)|[☁️](https://github.com/hangtwenty/dive-into-machine-learning) 
+|W3school|菜鸟|莫烦|V2EX|CheckiO|Django|Pandas|Github|Leetcode|Machine Learning
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-: 
+|[💻](https://www.w3schools.com/python/default.asp)|[🎨](https://www.runoob.com/python/python-tutorial.html)|[☕️](https://morvanzhou.github.io/)|[📝](https://www.v2ex.com/)|[💡](https://py.checkio.org/)|[💾](https://www.djangoproject.com/)|[✏️](https://jvns.ca/blog/2013/12/22/cooking-with-pandas/)|[🍉](https://github.com/CodementorIO/Python-Learning-Resources)|[📚](https://leetcode-cn.com/)|[☁️](https://github.com/hangtwenty/dive-into-machine-learning) 
 
 </br></br>
 ## print用法
