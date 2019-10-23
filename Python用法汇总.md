@@ -1,4 +1,4 @@
-# </cnter>Python<center>
+# <cnter>Python</center>
 ## 预计持续更新至2021年研究生毕业
 
 ## print用法
