@@ -1,3 +1,4 @@
+<p align="center">![puck](https://i.loli.net/2019/10/23/iU9OX5LN1kZMSGm.png)</p>
 # <p align="center">Python</p>
 
 ## print用法
