@@ -1,6 +1,6 @@
 
 <div align="center">
-  <a href="https://eosdota.com">
+  <a href="https://eosdota.xyz">
     <img src="https://i.loli.net/2019/10/23/iU9OX5LN1kZMSGm.png"  width="150" height="180">
   </a>
 </div>
