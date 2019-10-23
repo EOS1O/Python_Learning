@@ -1,5 +1,7 @@
-<center> Python </center>
+# <center>Python</center>
 ## 预计持续更新至2021年研究生毕业
+
+<center>这一行需要居中</center>
 
 ## print用法
 %d  整数           %s 字符串
