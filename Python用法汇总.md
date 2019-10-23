@@ -3,6 +3,10 @@
 # <p align="center">Python</p>
 ### <p align="center">记录日常所学所惑所得</p>
 
+|   W3school    | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+
 ## print用法
 %d  整数           %s 字符串
 ```python
