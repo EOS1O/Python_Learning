@@ -198,3 +198,24 @@ print（a）                                                      #Output：[1, 
 a = str(12345678)
 list(map(int,a))                                                #Output:[1, 2, 3, 4, 5, 6, 7, 8]
 ```
+
+## strip()方法
+strip() 方法用于移除字符串头尾（只能是首尾）指定的字符（默认为空格或换行符）或字符序列
+```python
+a = str(123456)
+print(a.strip('12'))                                            #Output: 3456   (type是str)
+print(a.strip(12))                                              #Output: 123456
+print(a.strip('34'))                                            #Output: 123456
+```
+
+## 判断字符类型
+```python
+.isalpha()                                                      #判断是否为字母
+.isdigit()                                                      #判断是否为数字
+.isspace()                                                      #判断是否为空格
+
+#判断是否为标点符号
+import String                                                   
+punc = string.punctuation
+if i == '_':
+```
