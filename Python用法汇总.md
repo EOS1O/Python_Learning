@@ -188,6 +188,13 @@ hex(10)                                                        #Output：0xa
 ## map()函数
 map(function, iterable, ...)   对迭代对象iterable object逐个使用function (注意，此处function不加（）)
 ```python
-a = map(int,['1','2','68'])                                     #对['1','2','68']中每个元素使用int()函数
+a = map(int,['1','2','68'])                                     #对['1','2','68']中每个元素使用int()函数，此处int不带()
 print（a）                                                      #Output：[1, 2, 68]
+```
+
+## 整数分离
+将一个整数的每一位单独分离开来  例：12345678 → 1，2，3，4，5，6，7
+```python
+a = str(12345678)
+list(map(int,a))                                                #Output:[1, 2, 3, 4, 5, 6, 7, 8]
 ```
