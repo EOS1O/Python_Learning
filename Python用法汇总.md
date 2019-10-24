@@ -13,7 +13,8 @@
 |[💻](https://www.w3schools.com/python/default.asp)|[🎨](https://www.runoob.com/python/python-tutorial.html)|[☕️](https://morvanzhou.github.io/)|[📝](https://www.v2ex.com/)|[💡](https://py.checkio.org/)|[💾](https://www.djangoproject.com/)|[✏️](https://jvns.ca/blog/2013/12/22/cooking-with-pandas/)|[🍉](https://github.com/CodementorIO/Python-Learning-Resources)|[📚](https://leetcode-cn.com/)|[☁️](https://github.com/hangtwenty/dive-into-machine-learning) 
 
 </br></br>
-[⋌ print](#print函数)　　　[⋌ split](#split方法)　　　[⋌ istitle](#istitle方法)　　　[ϡ abs](#abs方法)　　　[⋌ Random](#Random函数)　　　[⋌ dir](#dir)　　　[⋌ continue](#continue)　　　[⋌ 反转技术](#反转技术)　　　[⋌ 切片](#切片技术)
+[⋌ print](#print函数)　　　[⋌ split](#split方法)　　　[⋌ istitle](#istitle方法)　　　[⋌ abs](#abs方法)　　　[⋌ Random](#Random函数)　　　[⋌ dir](#dir)　　　[⋌ continue](#continue)　　　[⋌ 反转技术](#反转技术)　　　
+[⋌ 切片](#切片技术)
 
 </br></br>
 ## print函数
