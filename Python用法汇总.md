@@ -13,9 +13,9 @@
 |[💻](https://www.w3schools.com/python/default.asp)|[🎨](https://www.runoob.com/python/python-tutorial.html)|[☕️](https://morvanzhou.github.io/)|[📝](https://www.v2ex.com/)|[💡](https://py.checkio.org/)|[💾](https://www.djangoproject.com/)|[✏️](https://jvns.ca/blog/2013/12/22/cooking-with-pandas/)|[🍉](https://github.com/CodementorIO/Python-Learning-Resources)|[📚](https://leetcode-cn.com/)|[☁️](https://github.com/hangtwenty/dive-into-machine-learning) 
 
 
-
-### [♪ 函数](#函数)　　　　　　　　　　　　[♭ 方法](#方法)　　　　　　　　 　　　[♭ 实例](#实例)
-
+<div align="center">
+### [♪ 函数](#函数)　|　[♭ 方法](#方法)　｜　[♭ 实例](#实例)
+</div>
 
 # 函数
 [⋌ print](#print函数)　　　[⋌ Random](#Random函数)　　　[⋌ range](#range函数)　　　[⋌ set](#set函数)　　　[⋌ abs](#abs函数)　　　[⋌ dir](#dir函数)　　　[⋌ map](#map函数)　　　
