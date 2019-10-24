@@ -144,5 +144,13 @@ for i in range(6, -1, -1):      #逆向输出
 print(new)                      #Output: [6, 5, 4, 3, 2, 1, 0]
 
 ```
-
+## set()用法
+set() 函数创建一个无序不重复元素集，可进行关系测试，删除重复数据，还可以计算交集、差集、并集等
+```python
+#判断列表中是否存在重复元素
+a = [1, 2, 3, 4, 5, 6, 6]
+b = a.set()
+if len(a) > len(b):             #len(a) = 7  len(b) = 6
+  print("Yeah")                 #Output: Yeah
+```
 
