@@ -18,6 +18,33 @@
   [Download](https://github.com/getgridea/gridea/releases) | [Homepage](http://hvenotes.fehey.com/)
 </div>
 
+<div align="center">
+  <a href="https://gridea.dev">
+    <img src="public/app-icons/gridea.png"  width="80px" height="80px">
+  </a>
+  <h1 align="center">
+    Gridea
+  </h1>
+  <h3 align="center">
+    A static blog writing client
+  </h3>
+
+  [Download](https://github.com/getgridea/gridea/releases) | [Homepage](http://hvenotes.fehey.com/)
+
+  <a href="https://github.com/getgridea/gridea/releases/latest">
+    <img src="https://img.shields.io/github/release/getgridea/gridea.svg?style=flat-square" alt="">
+  </a>
+
+  <a href="https://github.com/getgridea/gridea/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/getgridea/gridea.svg?style=flat-square" alt="">
+  </a>
+  
+  <a href="https://github.com/getgridea/gridea/releases/latest">
+    <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/getgridea/gridea/total.svg?color=%2312b886&style=flat-square">
+  </a>
+
+</div>
+
 # 函数
 [⋌ print](#print函数)　　　[⋌ Random](#Random函数)　　　[⋌ range](#range函数)　　　[⋌ set](#set函数)　　　[⋌ abs](#abs函数)　　　[⋌ dir](#dir函数)　　　[⋌ map](#map函数)　　　
 
