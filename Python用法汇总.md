@@ -12,7 +12,6 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-: 
 |[💻](https://www.w3schools.com/python/default.asp)|[🎨](https://www.runoob.com/python/python-tutorial.html)|[☕️](https://morvanzhou.github.io/)|[📝](https://www.v2ex.com/)|[💡](https://py.checkio.org/)|[💾](https://www.djangoproject.com/)|[✏️](https://jvns.ca/blog/2013/12/22/cooking-with-pandas/)|[🍉](https://github.com/CodementorIO/Python-Learning-Resources)|[📚](https://leetcode-cn.com/)|[☁️](https://github.com/hangtwenty/dive-into-machine-learning) 
 
-</br></br>
 ### [♪ 函数](#函数)　　　　　　　　　
 ### [♭ 方法](#方法)　　　　　　　　
 ### [♭ 实例](#实例)
@@ -93,7 +92,7 @@ print（a）                                                      #Output：[1, 
 </br></br>
 
 # 方法
-[⋌ split](#split方法)　　　[⋌ istitle](#istitle方法)　　　[⋌ lower & upper](#lower & upper)　　　[⋌ strip](#strip方法)　　　[⋌ continue](#continue)　　　
+[⋌ split](#split方法)　　　[⋌ istitle](#istitle方法)　　　[⋌ lower & upper](#lower--upper)　　　[⋌ strip](#strip方法)　　　[⋌ continue](#continue)　　　
 ## split()方法
 split()通过指定分隔符对字符串进行切片，如果参数num 有指定值，则仅分隔 num 个子字符串；若str为空，则切割space
 ```
