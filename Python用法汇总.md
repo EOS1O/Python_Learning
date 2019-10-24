@@ -170,3 +170,19 @@ pow(x,y)                                                      #返回x的y次方
 - 二进制　　　0b101　－以数字0和字母开头，如果出现大于等于2的数，会抛出SyntaxError异常 
 - 八进制　　　0711　 －以数字0打头的数字，如果出现大于等于8的数，会抛出SyntaxError异常
 - 十六进制　　0x15　 －以数字0和字符x开头，包括0-9和abcdef或ABCDEF，出现其他数值会抛出SyntaxError异常
+```python
+#10进制转2进制
+bin(a)                                                         #a为10进制整数
+#2进制转10进制
+int("1011",2)
+
+#10进制转8进制（3种）
+print("%o" % 10)                                               #Output: 12
+print('0' * 0 + f'{int(10):o}')                                #Output: 12
+print(oct(10))                                                 #Output: 0o12
+
+#10进制转16进制
+hex(10)                                                        #Output：0xa
+
+
+```
