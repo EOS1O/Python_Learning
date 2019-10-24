@@ -14,8 +14,10 @@
 
 
 <div align="center">
-  [♪ 函数]()　|　[♭ 方法](#方法)　｜　[♭ 实例](#实例)
+  
+  [♪ 函数](#函数)　|　[♭ 方法](#方法)　｜　[♭ 实例](#实例)
   [Download](https://github.com/getgridea/gridea/releases) | [Homepage](http://hvenotes.fehey.com/)
+  
 </div>
 
 <div align="center">
