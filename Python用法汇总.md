@@ -13,7 +13,7 @@
 |[💻](https://www.w3schools.com/python/default.asp)|[🎨](https://www.runoob.com/python/python-tutorial.html)|[☕️](https://morvanzhou.github.io/)|[📝](https://www.v2ex.com/)|[💡](https://py.checkio.org/)|[💾](https://www.djangoproject.com/)|[✏️](https://jvns.ca/blog/2013/12/22/cooking-with-pandas/)|[🍉](https://github.com/CodementorIO/Python-Learning-Resources)|[📚](https://leetcode-cn.com/)|[☁️](https://github.com/hangtwenty/dive-into-machine-learning) 
 
 </br></br>
-## print用法
+## print函数
 %d  整数           %s 字符串
 ```python
 print("I love %s" %Passion)
@@ -40,16 +40,16 @@ print (str.split('w'))
 ['th', 's is string example....wow!!!']
 ['this is string example....', 'o', '!!!']
 ```
-## istitle()
+## istitle()方法
 istitle()方法检测字符串中所有的单词拼写首字母是否为大写，且其他字母为小写
 
 ## lower() & upper()
 lower()方法将字符串中所有的大写变味小写；upper（）相反
 
-## abs（）
+## abs()方法
 求取绝对值
 
-## random（）
+## random()函数
 ```python
 import random
 
@@ -129,7 +129,7 @@ print(a[::-1])                          #逆向输出 [8, 7, 6, 5, 4, 3, 2, 1]
 print(a[::2])                           #隔位取数 [0, 2, 4, 6, 8]
 print(a[-8:6])                          #Output: [1, 2, 3, 4, 5]
 ```
-## range()用法
+## range()函数
 · range(start, stop, step)
 + start: 开始位置，默认为 0 </br></br>
 + stop: 结束位置，输出时不包括 </br></br>
@@ -144,7 +144,7 @@ for i in range(6, -1, -1):      #逆向输出
 print(new)                      #Output: [6, 5, 4, 3, 2, 1, 0]
 
 ```
-## set()用法
+## set()函数
 set() 函数创建一个无序不重复元素集，可进行关系测试，删除重复数据，还可以计算交集、差集、并集等
 ```python
 #判断列表中是否存在重复元素
@@ -152,5 +152,11 @@ a = [1, 2, 3, 4, 5, 6, 6]
 b = a.set()
 if len(a) > len(b):             #len(a) = 7  len(b) = 6
   print("Yeah")                 #Output: Yeah
+```
+## pow()方法
+pow() 方法返回x的y次方
+```python
+import math
+pow(x,y)                        #返回x的y次方
 ```
 
