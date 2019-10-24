@@ -11,6 +11,7 @@
 |W3school|菜鸟|莫烦|V2EX|CheckiO|Django|Pandas|Github|Leetcode|Machine Learning
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-: 
 |[💻](https://www.w3schools.com/python/default.asp)|[🎨](https://www.runoob.com/python/python-tutorial.html)|[☕️](https://morvanzhou.github.io/)|[📝](https://www.v2ex.com/)|[💡](https://py.checkio.org/)|[💾](https://www.djangoproject.com/)|[✏️](https://jvns.ca/blog/2013/12/22/cooking-with-pandas/)|[🍉](https://github.com/CodementorIO/Python-Learning-Resources)|[📚](https://leetcode-cn.com/)|[☁️](https://github.com/hangtwenty/dive-into-machine-learning) 
+
 </br></br>
 [ϡ print](#print函数)　　　[ϡ split](#split方法)　　　[ϡ istitle](#istitle方法)　　　[ϡ abs](#abs方法)　　　[ϡ Random](#Random函数)　　　[ϡ dir](#dir)　　　[ϡ continue](#continue)　　　[ϡ 反转技术](#反转技术)　　　[ϡ 切片](#切片技术)
 
