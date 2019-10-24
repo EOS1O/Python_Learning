@@ -15,7 +15,7 @@
 </br></br>
 [⋌ print](#print函数)　　　[⋌ split](#split方法)　　　[⋌ istitle](#istitle方法)　　　[⋌ abs](#abs方法)　　　[⋌ Random](#Random函数)　　　[⋌ dir](#dir)　　　[⋌ continue](#continue)　　　[⋌ 反转技术](#反转技术)
 
-***
+- - -  -- --   ---  --- --  -   ---  -- --   ---   ---  -   --  --   -- 
 
 [⋌ 切片](#切片技术)
 
