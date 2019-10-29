@@ -95,7 +95,7 @@ print（a）                                                      #Output：[1, 
 </br></br>
 
 # 方法
-[⋌ split](#split方法)　　　[⋌ istitle](#istitle方法)　　　[⋌ lower & upper](#lower--upper)　　　[⋌ strip](#strip方法)　　　[⋌ continue](#continue)　　　[⋌ count](#count方法)
+[⋌ split](#split方法)　　　[⋌ istitle](#istitle方法)　　　[⋌ lower & upper](#lower--upper)　　　[⋌ strip](#strip方法)　　　[⋌ continue](#continue)　　　[⋌ count](#count方法)　　　[⋌ join](#join方法)　　　
 ## split()方法
 split()通过指定分隔符对字符串进行切片，返回一个列表 </br></br> 如果参数num 有指定值，则仅分隔 num 个子字符串；若str为空，则切割space
 ```
@@ -157,6 +157,14 @@ str.count(sub, start= 0,end=len(string))
 a = [1, 1, 1, 2, 2, 3, 3]
 b = a.count(2)                                              #Output:2
 ```
+## join（）方法
+join() 方法用于将序列中的元素以指定的字符连接生成一个新的字符串
+```python
+str = "-"
+a = ['1', '2', '3', '4']
+str.join(a)                                                 #Output: 1-2-3-4
+```
+
 </br></br>
 
 # 模块
