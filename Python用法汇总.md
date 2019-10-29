@@ -201,7 +201,8 @@ print(a[-8:6])                                                #Output: [1, 2, 3,
 - 十六进制　　0x15　 －以数字0和字符x开头，包括0-9和abcdef或ABCDEF，出现其他数值会抛出SyntaxError异常
 ```python
 #10进制转2进制
-bin(a)                                                         #a为10进制整数
+a = 10                                                        #a为10进制整数
+bin(a)                                                        #Output：0b1010 
 #2进制转10进制
 int("1011",2)
 
