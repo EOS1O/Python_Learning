@@ -15,7 +15,7 @@
 
 <div align="center">
   
-  [♪ 函数](#函数)　|　[♭ 方法](#方法)　｜　[♭ 实例](#实例)
+  [♪ 函数](#函数)　|　[♭ 方法](#方法)　｜　[♪ 模块](#模块)　｜　[♭ 实例](#实例)
   
 </div>
 
@@ -95,7 +95,7 @@ print（a）                                                      #Output：[1, 
 </br></br>
 
 # 方法
-[⋌ split](#split方法)　　　[⋌ istitle](#istitle方法)　　　[⋌ lower & upper](#lower--upper)　　　[⋌ strip](#strip方法)　　　[⋌ continue](#continue)　　　
+[⋌ split](#split方法)　　　[⋌ istitle](#istitle方法)　　　[⋌ lower & upper](#lower--upper)　　　[⋌ strip](#strip方法)　　　[⋌ continue](#continue)　　　[⋌ count](#count方法)
 ## split()方法
 split()通过指定分隔符对字符串进行切片，返回一个列表 </br></br> 如果参数num 有指定值，则仅分隔 num 个子字符串；若str为空，则切割space
 ```
@@ -148,9 +148,38 @@ while n < 10:
     print(n)
 ```
 
+## count（）方法
+count() 方法用于统计字符串里某个字符出现的次数，可选参数为在字符串搜索的开始与结束位置
+```python
+str.count(sub, start= 0,end=len(string))
+```
+```python
+a = [1, 1, 1, 2, 2, 3, 3]
+b = a.count(2)                                              #Output:2
+```
+</br></br>
+
+# 模块
+[⋌ deque](#deque队列)　　
+## deque队列
+Deque模块是Python标准库collections中的一项，它可以创建一个两端都可以操作的列表，但是无法使用类似list的切片功能
+```python
+from collections import deque
+#创建一个空队列
+d = deque()
+
+#队列左添加和左删除
+d.appendleft(a)
+d.popleft(a)
+
+#队列右添加和右删除（同list）
+d.append(a)
+d.pop()
+```
+
 </br></br>
 # 实例
-[⋌ 反转技术](#反转技术)　　　[⋌ 切片](#切片技术)　　　[⋌ 进制间转换](#进制间转换)　　　[⋌ 整数分离](#整数分离)　　　[⋌ 字符类型判断](#字符类型判断)　　　
+[⋌ 反转技术](#反转技术)　　　[⋌ 切片](#切片技术)　　　[⋌ 进制间转换](#进制间转换)　　　[⋌ 整数分离](#整数分离)　　　[⋌ 字符类型判断](#字符类型判断)　　　[⋌ 列表删除技巧](#列表删除)　　　[⋌ 列表内操作](#列表内操作)　　　
 ## 反转技术
 #### List反转
 ```python
@@ -232,4 +261,31 @@ list(map(int,a))                                                #Output:[1, 2, 3
 import String                                                   
 punc = string.punctuation
 if i == '_':
+```
+
+## 列表删除
+```python
+#pop方法                                                         #删除指定位置的元素
+a = [1, 2, 3, 4, 5]                                              #默认删除最后一位
+b = [1, 2, 3, 4, 5]
+a.pop()                                                          #Output：[1, 2, 3, 4]
+b.pop(0)                                                         #Output: [2, 3, 4, 5]
+
+#remove方法                                                      #删除第一个匹配的元素
+a = [1, 2, 3, 4, 5]                                              
+a.remove(3)                                                      #Output: [1, 2, 4, 5]
+```
+
+## 列表内操作
+列表内操作可简化生成列表的步骤
+```python
+[function for i in list]                                         #对i执行function，并添加至新形成的一个列表中
+```
+```python
+[int(i, 2) for i in [1110, 1011]]                                 #Output: [14, 11]
+
+#上述代码等价于
+a = []
+for i in [1110, 1011]:
+  a.append(int(i, 2))
 ```
