@@ -97,8 +97,7 @@ print（a）                                                      #Output：[1, 
 # 方法
 [⋌ split](#split方法)　　　[⋌ istitle](#istitle方法)　　　[⋌ lower & upper](#lower--upper)　　　[⋌ strip](#strip方法)　　　[⋌ continue](#continue)　　　
 ## split()方法
-split()通过指定分隔符对字符串进行切片，返回一个列表 </br></br>
-如果参数num 有指定值，则仅分隔 num 个子字符串；若str为空，则切割space
+split()通过指定分隔符对字符串进行切片，返回一个列表 </br></br> 如果参数num 有指定值，则仅分隔 num 个子字符串；若str为空，则切割space
 ```
 str.split(str="", num=string.count(str)
 ```
