@@ -287,7 +287,7 @@ a.remove(3)                                                      #Output: [1, 2,
 ## 列表内操作
 列表内操作可简化生成列表的步骤
 ```python
-[function for i in list]                                         #对i执行function，并添加至新形成的一个列表中
+[function(i) for i in list]                                       #对i执行function，并添加至新形成的一个列表中
 ```
 ```python
 [int(i, 2) for i in [1110, 1011]]                                 #Output: [14, 11]
