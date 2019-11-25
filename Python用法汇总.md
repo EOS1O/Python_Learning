@@ -90,7 +90,7 @@ dir([])    #查看列表的属性和方法
 map(function, iterable, ...)   对迭代对象iterable object逐个使用function (注意，此处function不加（）)
 ```python
 a = map(int,['1','2','68'])                                     #对['1','2','68']中每个元素使用int()函数，此处int不带()
-print（a）                                                      #Output：[1, 2, 68]
+print（list(a)）                                                #Output：[1, 2, 68]
 ```
 </br></br>
 
